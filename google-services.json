@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614464247759",
+    "firebase_url": "https://tema-308fc.firebaseio.com",
+    "project_id": "tema-308fc",
+    "storage_bucket": "tema-308fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614464247759:android:89ae73a99bc14f4ebca4ba",
+        "android_client_info": {
+          "package_name": "com.travelexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614464247759-qlkib0kbftv84jdrvhd1j46qh9goo1vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_-HjiA0ntEzlnpeDNzHK2OK1cdljzsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614464247759-qlkib0kbftv84jdrvhd1j46qh9goo1vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
